@@ -1,0 +1,5 @@
+The net total over the period is:$22564198
+Total number of months:86
+The average change is $-8311.11
+The month with the greatest increase is Aug-16,$1862002
+The month with the greatest decrease is Feb-14,$-1825558
